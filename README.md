@@ -1,9 +1,15 @@
-# Project: tinDog
+# Project: plantLover
 
-Website of a start-up created using HTML, CSS and Bootstrap.
+Website of a start-up created using:
+- HTML
+- CSS
+- Bootstrap
 
 ## Motivation
 
-Project created while taking the Web Development course on Udemy.
+I created this website to practice HTML, CSS and Bootstrap. 
 
-The main focus was put on learning features of Bootstrap.
+I put the main focus on:
+- learning features of Bootstrap: navbar, cards, carousel
+- combning selectors
+- refactoring code
